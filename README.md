@@ -114,6 +114,20 @@ gcc page.c -o menu
 
 Developed as a C programming project using SDL2.
 
+## Author
+
+**Mridupawan Kalita**
+B.Tech ES | Indian Institute of Technology Jodhpur
+[Github Profile](https://github.com/MriduKalita23)
+
+**Ankit Kumar Goyal**
+B.Tech ME | Indian Institute of Technology Jodhpur
+[Github Profile](https://github.com/ankit2006173)
+
+**Harshal Joshi**
+B.Tech CI | Indian Institute of Technology Jodhpur
+[Github Profile](https://github.com/Harshal2108)
+
 ---
 
 ## License
